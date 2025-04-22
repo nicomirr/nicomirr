@@ -28,6 +28,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/nicomi/)
 - Email: nicomironoff13@gmail.com
+- Itchio: https://nicomironoff.itch.io/
 
 ---
 
@@ -59,7 +60,8 @@ I'm open to collaboration and opportunities! 💼
 
 - [LinkedIn](https://www.linkedin.com/in/nicomi/)
 - Email: nicomironoff13@gmail.com
-
+- Itchio: https://nicomironoff.itch.io/
+  
 ---
 
 ¡Estoy abierto a colaboraciones y oportunidades! 💼
