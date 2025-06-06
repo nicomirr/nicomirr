@@ -10,7 +10,7 @@
 
 🎮 Game development student (UTN - Argentina)  
 🧠 Passionate about gameplay programming, AI, and systems  
-💻 Languages: C++, C#, Python  
+💻 Languages: C++, C#, Java, Python  
 📦 Tools & engines: Unity, SFML, Git, Visual Studio, Construct 2 & 3   
 
 ## 📌 Featured Projects
