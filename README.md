@@ -16,9 +16,9 @@
 ## 📌 Featured Projects
 
 - 🧠 [Alone](https://github.com/nicomirr/Alone): Horror Puzzle game made with Unity and C#
-- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Dungeon Crawler made with Unity and C#
-- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Top-down resource management shooter made with C++ and SFML
-- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Asteroids-inspired arcade and resource managment made with C++ and SFML
+- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Dungeon Crawler game made with Unity and C#
+- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Top-down resource management shooter game made with C++ and SFML
+- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Space shooter arcade and resource managment game made with C++ and SFML
 
 ## 📚 Education
 
@@ -48,10 +48,10 @@ I'm open to collaboration and opportunities! 💼
 
 ## 📌 Proyectos destacados
 
-- 🧠 [Alone](https://github.com/nicomirr/Alone): Horror Puzzle creado con Unity y C#
-- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Dungeon Crawler hecho con Unity y C#
-- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Shooter top-down con manejo de recursos, hecho con C++ y SFML
-- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Inspirado en Asteroids. Arcade con manejo de recursos, hecho con C++ y SFML
+- 🧠 [Alone](https://github.com/nicomirr/Alone): Juego de Horror y Puzzle creado con Unity y C#
+- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Juego Dungeon Crawler hecho con Unity y C#
+- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Juego Shooter top-down con manejo de recursos, hecho con C++ y SFML
+- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Juego Space shooter arcade con manejo de recursos, hecho con C++ y SFML
 
 ## 📚 Formación
 
