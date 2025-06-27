@@ -15,14 +15,15 @@
 
 ## 📌 Featured Projects
 
-- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Top-down shooter made with C++ and SFML
-- 🧠 [Alone](https://github.com/nicomirr/Alone): Stealth game featuring basic enemy AI
-- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Asteroids-inspired arcade game
+- 🧠 [Alone](https://github.com/nicomirr/Alone): Horror Puzzle game made with Unity and C#
+- 🟢 [SlimeTrouble](https://github.com/nicomirr/LastStanding): Dungeon Crawler made with Unity and C#
+- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Top-down resource management shooter made with C++ and SFML
+- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Asteroids-inspired arcade and resource managment made with C++ and SFML
 
 ## 📚 Education
 
 - Technical Degree in Game Development and Production (UTN)
-- Complementing my studies with math and programming theory courses
+- Complementing my studies with theoretical courses in math and programming at Image Campus and through online platforms
 
 ## 🔗 Contact
 
@@ -42,19 +43,20 @@ I'm open to collaboration and opportunities! 💼
 
 🎮 Estudiante de desarrollo y producción de videojuegos (UTN)  
 🧠 Interesado en gameplay programming, inteligencia artificial y sistemas  
-💻 Lenguajes: C++, C#, Python  
-📦 Engines y herramientas: Unity, SFML, Git, Visual Studi, Construct 2 y 3  
+💻 Lenguajes: C++, C#, Java, Python  
+📦 Engines y herramientas: Unity, SFML, Git, Visual Studio, Construct 2 y 3  
 
 ## 📌 Proyectos destacados
 
-- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Shooter top-down en C++ con SFML
-- 🧠 [Alone](https://github.com/nicomirr/Alone): Juego de sigilo con IA básica
-- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Clon de Asteroids con toques arcade
+- 🧠 [Alone](https://github.com/nicomirr/Alone): Horror Puzzle creado con Unity y C#
+- 🟢 [SlimeTrouble](https://github.com/nicomirr/LastStanding): Dungeon Crawler hecho con Unity y C#
+- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Shooter top-down con manejo de recursos, hecho con C++ y SFML
+- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Inspirado en Asteroids. Arcade con manejo de recursos, hecho con C++ y SFML
 
 ## 📚 Formación
 
 - Tecnicatura en Desarrollo y Producción de Videojuegos (UTN)
-- Cursos de matemáticas y programación complementaria en progreso
+- Complementación de mis estudios con cursos de matemática y programación en Image Campus y diversas plataformas online.
 
 ## 🔗 Contacto
 
