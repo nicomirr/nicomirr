@@ -10,8 +10,8 @@
 
 🎮 Game development student (UTN - Argentina)  
 🧠 Passionate about gameplay programming, AI, and systems  
-💻 Languages: C++, C#, Java, Python  
-📦 Tools & engines: Unity, SFML, Git, Visual Studio, Construct 2 & 3   
+💻 Languages: C++, C#, Python, Lua, Java, Javascript, CSS, HTML, SQL  
+📦 Tools & engines: Unity, Unreal Engine, Godot, SFML, Git, Visual Studio, Construct 2 & 3   
 
 ## 📌 Featured Projects
 
@@ -43,8 +43,8 @@ I'm open to collaboration and opportunities! 💼
 
 🎮 Estudiante de desarrollo y producción de videojuegos (UTN)  
 🧠 Interesado en gameplay programming, inteligencia artificial y sistemas  
-💻 Lenguajes: C++, C#, Java, Python  
-📦 Engines y herramientas: Unity, SFML, Git, Visual Studio, Construct 2 y 3  
+💻 Lenguajes: C++, C#, Python, Lua, Java, Javascript, CSS, HTML, SQL  
+📦 Engines y herramientas: Unity, Unreal Engine, Godot, SFML, Git, Visual Studio, Construct 2 & 3   
 
 ## 📌 Proyectos destacados
 
