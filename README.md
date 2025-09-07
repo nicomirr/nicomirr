@@ -15,10 +15,10 @@
 
 ## 📌 Featured Projects
 
-- 🧠 [Alone](https://github.com/nicomirr/Alone): Horror Puzzle game made with Unity and C#
-- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Dungeon Crawler game made with Unity and C#
-- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Top-down resource management shooter game made with C++ and SFML
-- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Space shooter arcade and resource managment game made with C++ and SFML
+- 🧠 [Alone](https://github.com/nicomirr/Alone): Horror Puzzle game made with Unity and C# (PC)
+- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Dungeon Crawler game made with Unity and C# (PC and mobile)
+- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Top-down resource management shooter game made with C++ and SFML (PC)
+- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Space shooter arcade and resource managment game made with C++ and SFML (PC)
 
 ## 📚 Education
 
@@ -48,10 +48,10 @@ I'm open to collaboration and opportunities! 💼
 
 ## 📌 Proyectos destacados
 
-- 🧠 [Alone](https://github.com/nicomirr/Alone): Juego de Horror y Puzzle creado con Unity y C#
-- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Juego Dungeon Crawler hecho con Unity y C#
-- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Juego Shooter top-down con manejo de recursos, hecho con C++ y SFML
-- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Juego Space shooter arcade con manejo de recursos, hecho con C++ y SFML
+- 🧠 [Alone](https://github.com/nicomirr/Alone): Juego de Horror y Puzzle creado con Unity y C# (PC)
+- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Juego Dungeon Crawler hecho con Unity y C# (PC y smartphones)
+- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Juego Shooter top-down con manejo de recursos, hecho con C++ y SFML (PC)
+- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Juego Space shooter arcade con manejo de recursos, hecho con C++ y SFML (PC)
 
 ## 📚 Formación
 
