@@ -8,7 +8,7 @@
 
 # Hi there! 👋 I'm Nico
 
-🎮 Game development student (UTN - Argentina)  
+🎮 Game programming student (Image Campus - Argentina)  
 🧠 Passionate about gameplay programming, AI, and systems  
 💻 Languages: C++, C#, Python, Lua, Java, Javascript, CSS, HTML, SQL  
 📦 Tools & engines: Unity, Unreal Engine, Godot, SFML, Git, Visual Studio, Construct 2 & 3   
@@ -41,7 +41,7 @@ I'm open to collaboration and opportunities! 💼
 
 # ¡Hola! 👋 Soy Nico
 
-🎮 Estudiante de desarrollo y producción de videojuegos (UTN)  
+🎮 Estudiante de programación de videojuegos (Image Campus)  
 🧠 Interesado en gameplay programming, inteligencia artificial y sistemas  
 💻 Lenguajes: C++, C#, Python, Lua, Java, Javascript, CSS, HTML, SQL  
 📦 Engines y herramientas: Unity, Unreal Engine, Godot, SFML, Git, Visual Studio, Construct 2 & 3   
