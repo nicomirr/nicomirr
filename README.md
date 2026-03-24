@@ -1,69 +1,120 @@
-## 📑 Índice
+## 📑 Index
 
-- [English](#english)
-- [Español](#español)
-----------------------------------------------------------------------------------------------------------------------------------------
+* [English](#english)
+* [Español](#español)
+
+---
 
 ## English
 
-# Hi there! 👋 I'm Nico
+# Hi there! 👋 I'm Nicolas
 
-🎮 Game programming student (Image Campus - Argentina)  
-🧠 Passionate about gameplay programming, AI, and systems  
-💻 Languages: C++, C#, Python, Lua, Java, Javascript, CSS, HTML, SQL  
-📦 Tools & engines: Unity, Unreal Engine, Godot, SFML, Git, Visual Studio, Construct 2 & 3   
+🎮 Game programming student (Image Campus - Argentina)
+🧠 Focused on gameplay programming, AI, and system design
+💻 Languages: C++, C#, Python, Lua, Java, GDScript
+📦 Tools & engines: Unity, Unreal Engine, Godot, SFML, Git, Visual Studio, Construct 2 & 3
 
-## 📌 Featured Projects
+---
 
-- 🧠 [Alone](https://github.com/nicomirr/Alone): Horror Puzzle game made with Unity and C# (PC)
-- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Dungeon Crawler game made with Unity and C# (PC and mobile)
-- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Top-down resource management shooter game made with C++ and SFML (PC)
-- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Space shooter arcade and resource managment game made with C++ and SFML (PC)
+## 📌 Some of my projects
+
+* 🧠 [Alone](https://github.com/nicomirr/Alone)
+  Horror puzzle game focused on atmosphere and player tension (Unity, C#)
+
+* 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble)
+  Dungeon crawler with combat systems and progression (Unity, C#)
+
+* 🎯 [LastStanding](https://github.com/nicomirr/LastStanding)
+  Top-down shooter with resource management and enemy waves (C++, SFML)
+
+* 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers)
+  Arcade space shooter with progression systems (C++, SFML)
+
+---
+
+## 🎮 20 Games Challenge
+
+I'm currently working through the **20 Games Challenge**, focusing not just on building games, but on:
+
+* Writing clean, maintainable code
+* Designing reusable systems
+* Improving gameplay feel and mechanics
+
+👉 [View the challenge hub](https://github.com/nicomirr/20-games-challenge)
+
+---
 
 ## 📚 Education
 
-- Technical Degree in Game Development and Production (UTN)
-- Complementing my studies with theoretical courses in math and programming at Image Campus and through online platforms
+* Technical Degree in Game Programming (Image Campus)
+* Complementing my studies with theoretical courses in mathematics and programming
+
+---
 
 ## 🔗 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/nicomi/)
-- Email: nicomironoff13@gmail.com
-- Itchio: https://nicomironoff.itch.io/
+* [LinkedIn](https://www.linkedin.com/in/nicomi/)
+* Email: [nicomironoff13@gmail.com](mailto:nicomironoff13@gmail.com)
+* Itch.io: https://nicomironoff.itch.io/
 
 ---
 
 I'm open to collaboration and opportunities! 💼
 
-----------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Español
 
-# ¡Hola! 👋 Soy Nico
+# ¡Hola! 👋 Soy Nicolás
 
-🎮 Estudiante de programación de videojuegos (Image Campus)  
-🧠 Interesado en gameplay programming, inteligencia artificial y sistemas  
-💻 Lenguajes: C++, C#, Python, Lua, Java, Javascript, CSS, HTML, SQL  
-📦 Engines y herramientas: Unity, Unreal Engine, Godot, SFML, Git, Visual Studio, Construct 2 & 3   
+🎮 Estudiante de programación de videojuegos (Image Campus)
+🧠 Enfocado en gameplay programming, inteligencia artificial y diseño de sistemas
+💻 Lenguajes: C++, C#, Python, Lua, Java, GDScript
+📦 Engines y herramientas: Unity, Unreal Engine, Godot, SFML, Git, Visual Studio, Construct 2 & 3
 
-## 📌 Proyectos destacados
+---
 
-- 🧠 [Alone](https://github.com/nicomirr/Alone): Juego de Horror y Puzzle creado con Unity y C# (PC)
-- 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble): Juego Dungeon Crawler hecho con Unity y C# (PC y smartphones)
-- 🎯 [LastStanding](https://github.com/nicomirr/LastStanding): Juego Shooter top-down con manejo de recursos, hecho con C++ y SFML (PC)
-- 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers): Juego Space shooter arcade con manejo de recursos, hecho con C++ y SFML (PC)
+## 📌 Algunos de mis proyectos
+
+* 🧠 [Alone](https://github.com/nicomirr/Alone)
+  Juego de horror y puzzle enfocado en la atmósfera y la tensión del jugador (Unity, C#)
+
+* 🟢 [SlimeTrouble](https://github.com/nicomirr/SlimeTrouble)
+  Dungeon crawler con sistemas de combate y progresión (Unity, C#)
+
+* 🎯 [LastStanding](https://github.com/nicomirr/LastStanding)
+  Shooter top-down con manejo de recursos y oleadas de enemigos (C++, SFML)
+
+* 🚀 [AsteroidsStrikers](https://github.com/nicomirr/AsteroidsStrikers)
+  Space shooter arcade con sistemas de progresión (C++, SFML)
+
+---
+
+## 🎮 20 Games Challenge
+
+Actualmente estoy realizando el **20 Games Challenge**, enfocado no solo en crear juegos, sino en:
+
+* Escribir código limpio y mantenible
+* Diseñar sistemas reutilizables
+* Mejorar el game feel y las mecánicas
+
+👉 [Ver todos los proyectos](https://github.com/nicomirr/20-games-challenge)
+
+---
 
 ## 📚 Formación
 
-- Tecnicatura en Desarrollo y Producción de Videojuegos (UTN)
-- Complementación de mis estudios con cursos de matemática y programación en Image Campus y diversas plataformas online.
+* Tecnicatura en Programación de Videojuegos (Image Campus)
+* Complemento mi formación con estudios teóricos en matemática y programación
+
+---
 
 ## 🔗 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/nicomi/)
-- Email: nicomironoff13@gmail.com
-- Itchio: https://nicomironoff.itch.io/
-  
+* [LinkedIn](https://www.linkedin.com/in/nicomi/)
+* Email: [nicomironoff13@gmail.com](mailto:nicomironoff13@gmail.com)
+* Itch.io: https://nicomironoff.itch.io/ 
+
 ---
 
 ¡Estoy abierto a colaboraciones y oportunidades! 💼
